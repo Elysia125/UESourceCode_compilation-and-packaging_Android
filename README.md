@@ -44,7 +44,7 @@ git clone https://github.com/EpicGames/UnrealEngine
 
 根据UE官网建议下载对应的版本（[虚幻引擎Android开发要求 | 虚幻引擎 5.4 文档 | Epic Developer Community | Epic Developer Community](https://dev.epicgames.com/documentation/zh-cn/unreal-engine/android-development-requirements-for-unreal-engine?application_version=5.4)）。
 
-![联想截图_20241122154731](.\images\image3.png)
+![image3](.\images\image3.png)
 
 - **下载Android Studio**
 
@@ -58,7 +58,7 @@ git clone https://github.com/EpicGames/UnrealEngine
 
 安装好Android Studio并打开，进入设置界面，找到Android SDK中的SDK Tools
 
-![联想截图_20241122155626](.\images\image4.png)
+![image4](.\images\image4.png)
 
 选择33版本的SDK和25版本的NDK下载。
 
@@ -72,7 +72,7 @@ git clone https://github.com/EpicGames/UnrealEngine
 
 不配置系统环境变量的话，也可以在UE的**项目设置/平台/Android SDK**里指定JDK,SDK,NDK。
 
-![联想截图_20241122161837](.\images\image5.png)
+![image5](.\images\image5.png)
 
 ### 项目设置
 
